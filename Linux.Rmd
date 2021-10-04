@@ -1,0 +1,27 @@
+---
+title: "Mapronano-Linuz"
+author: "Stephen Kanyerezi"
+date: "10/4/2021"
+output: html_document
+---
+
+# Introduction to UNIX
+- What is unix
+- What is an operating system
+- Examples of operating systems
+- Types of unix
+- Components of UNIX operating system
+- kernel, shell, programs
+
+# Files and Processes
+- A process is an executing program identified by a unique PID (process identifier)
+
+# Direstory structure
+
+
+```{bash}
+ls -a
+tree
+```
+
+
